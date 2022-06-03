@@ -16,3 +16,7 @@ Este projeto tem o intuito de replicar o layout do whatsApp com o objetivo de ap
 - HTML
 - CSS
 - Styled-Components
+
+## ⚙️ Imagem da versão atual:
+
+![image](https://user-images.githubusercontent.com/56547690/171901319-ae3f3192-cd05-459f-abf0-935def3da753.png)
